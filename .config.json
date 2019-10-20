@@ -4,7 +4,7 @@
         "type": "ext"
     },
     "build": {
-        "ldflags": "",
+        "ldflags": "-ljsoncpp",
         "cxxflags": "",
         "cflags": "",
         "c_std": "",
